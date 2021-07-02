@@ -28,7 +28,7 @@ xchainpy relies upon a <a href="https://github.com/xchainjs/xchainpy-lib/tree/ma
 * <a href="https://github.com/xchainjs/xchainpy-lib/tree/main/xchainpy/xchainpy_client#transfer">Transfer</a> funds
 * Built-in <a href="https://github.com/xchainjs/xchainpy-lib/tree/main/xchainpy/xchainpy_client#get-fees">fee recommendations</a>
 
-xchainpy also enables chain specific interactions such as writing/reading smart contracts on ethereum, are available within the chain specific packages. See <#usage">usage examples</a>
+xchainpy also enables chain specific interactions such as writing/reading smart contracts on ethereum.
 
 
 ## Getting Started
